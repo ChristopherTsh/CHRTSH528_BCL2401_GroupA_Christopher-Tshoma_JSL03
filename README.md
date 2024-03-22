@@ -36,5 +36,8 @@ console.log(result);
 
 ## LOOM
 
+[Example-1](https://www.loom.com/share/dd2877feb49b4de4ba6212c9fb6c1bc8?sid=48e1065b-a7b4-4cc6-8bb4-ee40e7f13739)
+[Example-2 andLearning Outcome ](https://www.loom.com/share/a51613548a3a4009a9382cc3fd2c09c3?sid=d08cc420-6e6b-4017-9fbd-57942300c189)
+
 
    

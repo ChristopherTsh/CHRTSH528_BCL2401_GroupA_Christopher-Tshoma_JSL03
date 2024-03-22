@@ -34,23 +34,7 @@ const result = cookSteak(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
 console.log(result);
 ```
 
-## Contribution
-
-Got secret steak seasonings? Want to share your grilling tips? Fork this repo, spice up the code, and let's make this the ultimate steak-cooking resource!
-
-## License
-
-This project is seasoned with the **MIT License**. Feel free to grill it, slice it, and serve it up anywhere you like!
-
----
-
-Remember, a perfectly cooked steak is like a symphony of flavors. So, fire up that grill, channel your inner chef, and let's create steak magic! 🔥👨‍🍳👩‍🍳
-
-Source: Conversation with Bing, 2024/03/22
-(1) How to Write a Good README File for Your GitHub Project - freeCodeCamp.org. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(2) How to write a great README for your GitHub project in 5 steps. https://dev.to/abdfnx/how-to-write-a-great-readme-for-your-github-project-in-5-steps-33e5.
-(3) GitHub - banesullivan/README: How to write a good README. https://github.com/banesullivan/README.
-(4) How to write Badass READMES for your Github projects. https://www.stefannibrasil.me/posts/github-readme-examples-and-template/.
+## LOOM
 
 
    
